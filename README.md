@@ -9,7 +9,7 @@
       <td valign="middle" style="border: 0; background: transparent;">
         <h1 style="margin: 0; font-size: 30px; font-weight: 800; color: #ffffff;">Vishnu Kondaveeti</h1>
         <h3 style="margin: 4px 0 8px 0; font-size: 17px; color: #38bdf8; font-weight: 600;">AI / GenAI Software Engineer</h3>
-        <p style="margin: 0 0 12px 0; color: #cbd5e1; font-size: 14px;">Building agentic AI systems, RAG applications, LLM-powered workflows &amp; production-ready backend infrastructure.</p>
+        <p style="margin: 0 0 12px 0; color: #cbd5e1; font-size: 14px;">Building agentic AI systems, RAG applications, LLM-powered workflows &amp; production-oriented backend infrastructure.</p>
         <p style="margin: 0;">
           <a href="https://linkedin.com/in/vishnu-kondaveeti" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
           <a href="https://github.com/VishnuKondaveeti" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
@@ -178,35 +178,6 @@ GenAI-focused Software Engineering student building intelligent systems that com
     </td>
     <td align="right" valign="top" style="border: 0;">
       <span style="color: #8b949e; font-size: 13px;">🗓️ <strong>2022 – 2027</strong></span>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Stats :
-
-<table width="100%" border="0" style="border: 0;">
-  <tr style="border: 0;">
-    <td width="25%" align="center" style="border: 1px solid #30363d; border-bottom: 3px solid #a855f7; border-radius: 8px; padding: 14px; background-color: #0d1117;">
-      <span style="color: #a855f7; font-size: 18px;">⭐</span><br/>
-      <small style="color: #8b949e; font-size: 11px; text-transform: uppercase;">Total Stars Earned</small><br/>
-      <strong style="font-size: 22px; color: #ffffff;">160+</strong>
-    </td>
-    <td width="25%" align="center" style="border: 1px solid #30363d; border-bottom: 3px solid #10b981; border-radius: 8px; padding: 14px; background-color: #0d1117;">
-      <span style="color: #10b981; font-size: 18px;">🌿</span><br/>
-      <small style="color: #8b949e; font-size: 11px; text-transform: uppercase;">Total Commits</small><br/>
-      <strong style="font-size: 22px; color: #ffffff;">850+</strong>
-    </td>
-    <td width="25%" align="center" style="border: 1px solid #30363d; border-bottom: 3px solid #eab308; border-radius: 8px; padding: 14px; background-color: #0d1117;">
-      <span style="color: #eab308; font-size: 18px;">📁</span><br/>
-      <small style="color: #8b949e; font-size: 11px; text-transform: uppercase;">Total Repositories</small><br/>
-      <strong style="font-size: 22px; color: #ffffff;">25+</strong>
-    </td>
-    <td width="25%" align="center" style="border: 1px solid #30363d; border-bottom: 3px solid #06b6d4; border-radius: 8px; padding: 14px; background-color: #0d1117;">
-      <span style="color: #06b6d4; font-size: 18px;">📈</span><br/>
-      <small style="color: #8b949e; font-size: 11px; text-transform: uppercase;">Contributions (2025)</small><br/>
-      <strong style="font-size: 22px; color: #ffffff;">1200+</strong>
     </td>
   </tr>
 </table>
