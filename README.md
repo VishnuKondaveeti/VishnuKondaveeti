@@ -9,7 +9,7 @@
       <td valign="middle" style="border: 0; background: transparent;">
         <h1 style="margin: 0; font-size: 30px; font-weight: 800; color: #ffffff;">Vishnu Kondaveeti</h1>
         <h3 style="margin: 4px 0 8px 0; font-size: 17px; color: #38bdf8; font-weight: 600;">AI / GenAI Software Engineer</h3>
-        <p style="margin: 0 0 12px 0; color: #cbd5e1; font-size: 14px;">Building agentic AI systems, RAG applications, LLM-powered workflows &amp; production-oriented backend infrastructure.</p>
+        <p style="margin: 0 0 12px 0; color: #cbd5e1; font-size: 14px;">Building agentic AI systems, RAG applications, LLM-powered workflows &amp; production-ready backend infrastructure.</p>
         <p style="margin: 0;">
           <a href="https://linkedin.com/in/vishnu-kondaveeti" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
           <a href="https://github.com/VishnuKondaveeti" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
@@ -117,122 +117,26 @@ GenAI-focused Software Engineering student building intelligent systems that com
 
 ### 💼 Experience :
 
-<table width="100%" border="0" style="border: 0;">
-  <tr style="border: 0;">
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
-      <table border="0" style="border: 0; width: 100%;">
-        <tr style="border: 0;">
-          <td width="50" valign="middle" style="border: 0;">
-            <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" height="28" alt="IBM" />
-          </td>
-          <td style="border: 0; padding-left: 10px;">
-            <strong style="font-size: 15px; color: #f0f6fc;">AI &amp; Cloud Virtual Intern</strong><br/>
-            <span style="color: #38bdf8; font-size: 13px;">IBM SkillsBuild</span><br/>
-            <small style="color: #8b949e;">🗓️ Sep 2025 – Oct 2025</small>
-          </td>
-        </tr>
-      </table>
-      <ul style="color: #c9d1d9; font-size: 13px; margin-top: 10px; padding-left: 18px;">
-        <li>Developed ML workflows using Python for preprocessing, feature engineering, model training and evaluation.</li>
-        <li>Applied supervised &amp; unsupervised learning across classification and regression tasks.</li>
-        <li>Used cross-validation, Precision, Recall and F1-Score for model evaluation.</li>
-        <li>Explored cloud-based AI workflows and practical ML development.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
-      <table border="0" style="border: 0; width: 100%;">
-        <tr style="border: 0;">
-          <td width="50" valign="middle" style="border: 0;">
-            <img src="https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=shell&logoColor=red" height="28" alt="Shell" />
-          </td>
-          <td style="border: 0; padding-left: 10px;">
-            <strong style="font-size: 15px; color: #f0f6fc;">AI &amp; Data Analytics Virtual Intern</strong><br/>
-            <span style="color: #38bdf8; font-size: 13px;">Shell</span><br/>
-            <small style="color: #8b949e;">🗓️ Oct 2025 – Nov 2025</small>
-          </td>
-        </tr>
-      </table>
-      <ul style="color: #c9d1d9; font-size: 13px; margin-top: 10px; padding-left: 18px;">
-        <li>Performed EDA using Python, Pandas and NumPy.</li>
-        <li>Applied data cleaning, transformation and validation on structured datasets.</li>
-        <li>Used statistical analysis and visualization to identify patterns and evaluate model outputs.</li>
-        <li>Supported data-driven decision making through analytical insights.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<img src="assets/experience.svg" alt="Experience" width="100%" />
 
 ---
 
 ### 🎓 Education :
 
-<table width="100%" border="0" style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117; padding: 16px;">
-  <tr style="border: 0;">
-    <td width="60" valign="middle" style="border: 0;">
-      <img src="https://img.shields.io/badge/VIT-AP-003B57?style=for-the-badge&logo=academicons&logoColor=white" height="32" alt="VIT-AP" />
-    </td>
-    <td valign="middle" style="border: 0; padding-left: 10px;">
-      <strong style="font-size: 16px; color: #f0f6fc;">Vellore Institute of Technology (VIT-AP), India</strong><br/>
-      <span style="color: #38bdf8; font-size: 14px;">Integrated M.Tech in Computer Science &amp; Engineering</span><br/>
-      <span style="color: #10b981; font-weight: 700; font-size: 13px;">CGPA: 8.91 / 10.0</span>
-    </td>
-    <td align="right" valign="top" style="border: 0;">
-      <span style="color: #8b949e; font-size: 13px;">🗓️ <strong>2022 – 2027</strong></span>
-    </td>
-  </tr>
-</table>
+<img src="assets/education.svg" alt="Education" width="100%" />
+
+---
+
+### 📊 GitHub Stats :
+
+<img src="assets/stats.svg" alt="GitHub Stats" width="100%" />
 
 ---
 
 ### 🚀 Featured Projects :
 
-<table width="100%" border="0" style="border: 0;">
-  <tr style="border: 0;">
-    <td width="33%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 14px; background-color: #0d1117;">
-      <a href="https://github.com/VishnuKondaveeti/agentOS" style="text-decoration: none; color: #38bdf8; font-weight: 700; font-size: 14px;">agentOS</a><br/>
-      <p style="color: #c9d1d9; font-size: 12px; margin: 6px 0 10px 0;">Autonomous AI Personal Assistant with 4 pipelines &amp; multi-channel communication.</p>
-      <small style="color: #38bdf8;">● Python</small>
-    </td>
-    <td width="33%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 14px; background-color: #0d1117;">
-      <a href="https://github.com/VishnuKondaveeti/agentic-research-matrix" style="text-decoration: none; color: #38bdf8; font-weight: 700; font-size: 14px;">agentic-research-matrix</a><br/>
-      <p style="color: #c9d1d9; font-size: 12px; margin: 6px 0 10px 0;">16-agent research platform with hybrid RAG + Knowledge Graph (47 papers, 1,449+ embeddings).</p>
-      <small style="color: #38bdf8;">● Python</small>
-    </td>
-    <td width="33%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 14px; background-color: #0d1117;">
-      <a href="https://github.com/VishnuKondaveeti/Agentic-RAG-Pipeline" style="text-decoration: none; color: #38bdf8; font-weight: 700; font-size: 14px;">Agentic-RAG-Pipeline</a><br/>
-      <p style="color: #c9d1d9; font-size: 12px; margin: 6px 0 10px 0;">Agentic RAG system with dynamic routing, citations &amp; local DeepSeek-R1 (Ollama).</p>
-      <small style="color: #38bdf8;">● Python</small>
-    </td>
-  </tr>
-  <tr style="border: 0;">
-    <td width="33%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 14px; background-color: #0d1117; margin-top: 10px;">
-      <a href="https://github.com/VishnuKondaveeti/semantic-search-system" style="text-decoration: none; color: #38bdf8; font-weight: 700; font-size: 14px;">semantic-search-system</a><br/>
-      <p style="color: #c9d1d9; font-size: 12px; margin: 6px 0 10px 0;">Semantic search using embeddings, ChromaDB &amp; FastAPI.</p>
-      <small style="color: #38bdf8;">● Python</small>
-    </td>
-    <td width="33%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 14px; background-color: #0d1117; margin-top: 10px;">
-      <a href="https://github.com/VishnuKondaveeti/Autonomous-AI-Companies" style="text-decoration: none; color: #38bdf8; font-weight: 700; font-size: 14px;">Autonomous-AI-Companies</a><br/>
-      <p style="color: #c9d1d9; font-size: 12px; margin: 6px 0 10px 0;">Curated list of autonomous AI companies with research &amp; insights.</p>
-      <small style="color: #38bdf8;">● Python</small>
-    </td>
-    <td width="33%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 14px; background-color: #0d1117; margin-top: 10px;">
-      <a href="https://github.com/VishnuKondaveeti/RealTime-AI-Air-Sketch-AICTC-Internship" style="text-decoration: none; color: #38bdf8; font-weight: 700; font-size: 14px;">RealTime-AI-Air-Sketch</a><br/>
-      <p style="color: #c9d1d9; font-size: 12px; margin: 6px 0 10px 0;">Real-time AI air sketch recognition &amp; processing system.</p>
-      <small style="color: #38bdf8;">● Python</small>
-    </td>
-  </tr>
-</table>
+<img src="assets/projects.svg" alt="Featured Projects" width="100%" />
 
 ---
 
-<!-- Quote Footer Card -->
-<table width="100%" border="0" style="border: 1px solid #1e3a8a; border-left: 4px solid #38bdf8; border-radius: 8px; background: linear-gradient(90deg, #0b1528 0%, #080d1a 100%); padding: 18px;">
-  <tr style="border: 0;">
-    <td align="center" style="border: 0;">
-      <p style="margin: 0; font-size: 16px; color: #f0f6fc; font-weight: 500; font-style: italic;">
-        &ldquo;Don't just wrap an API around an LLM. Build the system around it.&rdquo;
-        <span style="color: #38bdf8; font-style: normal; font-size: 14px; margin-left: 10px;">— Vishnu</span>
-      </p>
-    </td>
-  </tr>
-</table>
+<img src="assets/quote.svg" alt="Engineering Philosophy" width="100%" />

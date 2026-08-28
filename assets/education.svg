@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 90" width="100%" height="100%">
+  <defs>
+    <style>
+      .card-bg { fill: #0b0f17; stroke: #1e293b; stroke-width: 1; }
+      .inst-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 16px; fill: #ffffff; font-weight: 700; }
+      .inst-deg { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; fill: #38bdf8; font-weight: 600; }
+      .inst-cgpa { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; fill: #10b981; font-weight: 700; }
+      .inst-date { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; fill: #8b949e; }
+    </style>
+  </defs>
+
+  <rect width="900" height="90" rx="10" class="card-bg" />
+
+  <!-- VIT Logo Badge -->
+  <g transform="translate(24, 20)">
+    <circle cx="25" cy="25" r="24" fill="#003b57" stroke="#1e293b" stroke-width="1" />
+    <text x="25" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="900" fill="#ffffff" text-anchor="middle">VIT</text>
+  </g>
+
+  <!-- Title & Degree -->
+  <text x="88" y="32" class="inst-title">Vellore Institute of Technology (VIT-AP), India</text>
+  <text x="88" y="52" class="inst-deg">Integrated M.Tech in Computer Science &amp; Engineering</text>
+  <text x="88" y="72" class="inst-cgpa">CGPA: 8.91 / 10.0</text>
+
+  <!-- Date on Right -->
+  <text x="876" y="50" class="inst-date" text-anchor="end">🗓️ 2022 – 2027</text>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="100%" height="100%">
+  <defs>
+    <style>
+      .stat-bg { fill: #0b0f17; stroke: #1e293b; stroke-width: 1; }
+      .stat-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 11px; fill: #8b949e; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; }
+      .stat-val { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 24px; fill: #ffffff; font-weight: 800; }
+    </style>
+  </defs>
+
+  <!-- Card 1: Total Stars -->
+  <g transform="translate(0, 0)">
+    <rect width="213" height="110" rx="8" class="stat-bg" />
+    <path d="M 0 102 Q 0 110 8 110 L 205 110 Q 213 110 213 102 L 213 110 L 0 110 Z" fill="#a855f7" />
+    <text x="24" y="44" font-size="20" fill="#a855f7">⭐</text>
+    <text x="56" y="38" class="stat-label">Total Stars Earned</text>
+    <text x="56" y="76" class="stat-val">160+</text>
+  </g>
+
+  <!-- Card 2: Total Commits -->
+  <g transform="translate(229, 0)">
+    <rect width="213" height="110" rx="8" class="stat-bg" />
+    <path d="M 0 102 Q 0 110 8 110 L 205 110 Q 213 110 213 102 L 213 110 L 0 110 Z" fill="#10b981" />
+    <text x="24" y="44" font-size="20" fill="#10b981">🌿</text>
+    <text x="56" y="38" class="stat-label">Total Commits</text>
+    <text x="56" y="76" class="stat-val">850+</text>
+  </g>
+
+  <!-- Card 3: Total Repositories -->
+  <g transform="translate(458, 0)">
+    <rect width="213" height="110" rx="8" class="stat-bg" />
+    <path d="M 0 102 Q 0 110 8 110 L 205 110 Q 213 110 213 102 L 213 110 L 0 110 Z" fill="#eab308" />
+    <text x="24" y="44" font-size="20" fill="#eab308">📁</text>
+    <text x="56" y="38" class="stat-label">Total Repositories</text>
+    <text x="56" y="76" class="stat-val">25+</text>
+  </g>
+
+  <!-- Card 4: Contributions (2025) -->
+  <g transform="translate(687, 0)">
+    <rect width="213" height="110" rx="8" class="stat-bg" />
+    <path d="M 0 102 Q 0 110 8 110 L 205 110 Q 213 110 213 102 L 213 110 L 0 110 Z" fill="#06b6d4" />
+    <text x="24" y="44" font-size="20" fill="#06b6d4">📈</text>
+    <text x="56" y="38" class="stat-label">Contributions (2025)</text>
+    <text x="56" y="76" class="stat-val">1200+</text>
+  </g>
+</svg>
