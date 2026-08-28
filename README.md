@@ -18,7 +18,7 @@ Building **agentic AI systems, RAG applications, LLM-powered workflows & product
 
 <br>
 
-<a href="https://www.linkedin.com/in/vishnu-kondaveeti/">
+<a href="www.linkedin.com/in/vishnu-kondaveeti-7856502b4">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
@@ -145,16 +145,31 @@ I enjoy turning complex ideas into **scalable, modular and production-oriented A
 
 ---
 
+---
+
 # 💼 Experience :
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-### 🔵 IBM SkillsBuild
+<table width="100%">
+<tr>
+<td width="75">
+
+<img src="https://cdn.simpleicons.org/ibm/0F62FE" width="58" alt="IBM"/>
+
+</td>
+<td>
+
+### IBM SkillsBuild
 
 ## AI & Cloud Virtual Intern
+
+</td>
+</tr>
+</table>
 
 📅 **September 2025 – October 2025**
 
@@ -163,7 +178,7 @@ I enjoy turning complex ideas into **scalable, modular and production-oriented A
 - Used **cross-validation, Precision, Recall and F1-Score** for model evaluation.
 - Explored cloud-based AI workflows and practical ML development.
 
-**Skills**
+**Focus**
 
 `Python` `Machine Learning` `Model Evaluation` `Cloud AI`
 
@@ -171,9 +186,22 @@ I enjoy turning complex ideas into **scalable, modular and production-oriented A
 
 <td width="50%" valign="top">
 
-### 🔴 Shell
+<table width="100%">
+<tr>
+<td width="75">
+
+<img src="https://cdn.simpleicons.org/shell/FFD500" width="58" alt="Shell"/>
+
+</td>
+<td>
+
+### Shell
 
 ## AI & Data Analytics Virtual Intern
+
+</td>
+</tr>
+</table>
 
 📅 **October 2025 – November 2025**
 
@@ -182,7 +210,7 @@ I enjoy turning complex ideas into **scalable, modular and production-oriented A
 - Used statistical analysis and visualization to identify patterns and evaluate model outputs.
 - Supported data-driven decision making through analytical insights.
 
-**Skills**
+**Focus**
 
 `Python` `Pandas` `NumPy` `EDA` `Data Analytics`
 
@@ -198,13 +226,15 @@ I enjoy turning complex ideas into **scalable, modular and production-oriented A
 <table width="100%">
 <tr>
 
-<td width="20%" align="center">
+<td width="18%" align="center">
 
-# VIT-AP
+### 🎓
+
+## VIT-AP
 
 </td>
 
-<td width="60%">
+<td width="62%" valign="middle">
 
 ### Vellore Institute of Technology (VIT-AP), India
 
@@ -218,7 +248,7 @@ I enjoy turning complex ideas into **scalable, modular and production-oriented A
 
 ### CGPA
 
-# 8.91
+# <font color="#22C55E">8.91</font>
 
 **/ 10.0**
 
@@ -233,9 +263,21 @@ I enjoy turning complex ideas into **scalable, modular and production-oriented A
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VishnuKondaveeti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7C3AED&text_color=FFFFFF" height="170"/>
+<a href="https://github.com/VishnuKondaveeti">
+<img src="https://img.shields.io/github/followers/VishnuKondaveeti?style=for-the-badge&logo=github&label=Followers&color=181717" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuKondaveeti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" height="170"/>
+<a href="https://github.com/VishnuKondaveeti?tab=repositories">
+<img src="https://img.shields.io/badge/Public%20Repositories-15-238636?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/VishnuKondaveeti">
+<img src="https://img.shields.io/github/last-commit/VishnuKondaveeti/agentOS?style=for-the-badge&logo=github&label=Latest%20Project%20Commit&color=58A6FF" />
+</a>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VishnuKondaveeti&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
@@ -243,89 +285,104 @@ I enjoy turning complex ideas into **scalable, modular and production-oriented A
 
 # 🚀 Featured Projects :
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="33%" valign="top">
 
-### 🤖 agentOS
+## 🤖 agentOS
 
-**Autonomous AI Personal Assistant**
+### Autonomous AI Personal Assistant
 
-Event-driven AI assistant connecting Email, WhatsApp and Voice.
+Event-driven AI assistant connecting **Email, WhatsApp and Voice**.
 
 **Highlights**
 
-🔹 4 automated pipelines  
-🔹 10 REST APIs  
-🔹 DeepSeek-R1  
-🔹 Persistent LLM memory  
+🔹 **4 automated pipelines**
+
+🔹 **10 REST APIs**
+
+🔹 DeepSeek-R1
+
+🔹 Persistent LLM memory
+
 🔹 Gmail + WhatsApp + Voice
 
 **Stack**
 
-`Python` `FastAPI` `Ollama` `n8n` `SQLite` `Docker`
+`Python` `FastAPI`  
+`Ollama` `n8n` `SQLite` `Docker`
 
 <br>
 
 <a href="https://github.com/VishnuKondaveeti/agentOS">
-<img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="33%" valign="top">
 
-### 🧠 agentic-research-matrix
+## 🧠 agentic-research-matrix
 
-**Multi-Agent Research Platform**
+### Multi-Agent Research Platform
 
-Dynamic multi-agent research system combining RAG and Knowledge Graph retrieval.
+A dynamic multi-agent research system combining **RAG + Knowledge Graph retrieval**.
 
 **Highlights**
 
-🔹 16 agents  
-🔹 47 research papers  
-🔹 1,449+ embeddings  
-🔹 18 REST APIs  
-🔹 4 research APIs
+🔹 **16 agents**
+
+🔹 **47 research papers**
+
+🔹 **1,449+ embeddings**
+
+🔹 **18 REST APIs**
+
+🔹 **4 research APIs**
 
 **Stack**
 
-`LangGraph` `ChromaDB` `Neo4j` `FastAPI` `RAG`
+`LangGraph` `ChromaDB`  
+`Neo4j` `FastAPI` `RAG`
 
 <br>
 
 <a href="https://github.com/VishnuKondaveeti/agentic-research-matrix">
-<img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="33%" valign="top">
 
-### 🔎 Agentic-RAG-Pipeline
+## 🔎 Agentic-RAG-Pipeline
 
-**Context-Aware RAG System**
+### Context-Aware RAG System
 
-Agentic RAG system using dynamic routing between retrieval and direct generation.
+Agentic RAG system using **dynamic routing** between retrieval and direct generation.
 
 **Highlights**
 
-🔹 2 execution paths  
-🔹 Top-3 retrieval  
-🔹 DeepSeek-R1 7B  
-🔹 Semantic embeddings  
+🔹 **2 execution paths**
+
+🔹 Top-3 similarity retrieval
+
+🔹 DeepSeek-R1 7B
+
+🔹 Semantic embeddings
+
 🔹 Source attribution
 
 **Stack**
 
-`LangChain` `ChromaDB` `FastAPI` `Ollama`
+`LangChain` `ChromaDB`  
+`FastAPI` `Ollama`
 
 <br>
 
 <a href="https://github.com/VishnuKondaveeti/Agentic-RAG-Pipeline">
-<img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -336,48 +393,54 @@ Agentic RAG system using dynamic routing between retrieval and direct generation
 
 <td valign="top">
 
-### 🔍 semantic-search-system
+## 🔍 semantic-search-system
 
 Semantic search system using embeddings and vector retrieval.
+
+**Stack**
 
 `Python` `ChromaDB` `FastAPI`
 
 <br>
 
 <a href="https://github.com/VishnuKondaveeti/semantic-search-system">
-<img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td valign="top">
 
-### 🏢 Autonomous-AI-Companies
+## 🏢 Autonomous-AI-Companies
 
-Curated list of autonomous AI companies with research and insights.
+Curated research on autonomous AI companies and emerging AI systems.
+
+**Stack**
 
 `Python` `AI Research`
 
 <br>
 
 <a href="https://github.com/VishnuKondaveeti/Autonomous-AI-Companies">
-<img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td valign="top">
 
-### ✏️ RealTime-AI-Air-Sketch
+## ✏️ RealTime-AI-Air-Sketch
 
 Real-time AI air-sketch recognition and processing system.
+
+**Stack**
 
 `Python` `Computer Vision` `AI`
 
 <br>
 
 <a href="https://github.com/VishnuKondaveeti/RealTime-AI-Air-Sketch-AICTC-Internship">
-<img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -387,30 +450,11 @@ Real-time AI air-sketch recognition and processing system.
 
 ---
 
-# 🏗️ Engineering Philosophy
-
 <div align="center">
 
 > ### “Don’t just wrap an API around an LLM. Build the system around it.”
-
-**— Vishnu Kondaveeti**
-
-</div>
-
----
-
-# ❤️ Tech I Love Working With
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-16A34A?style=for-the-badge&logo=langgraph&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-7C3AED?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
+>
+> **— Vishnu Kondaveeti**
 
 </div>
 
@@ -420,6 +464,6 @@ Real-time AI air-sketch recognition and processing system.
 
 ### 🚀 Building AI systems that move beyond the chatbot.
 
-**AI Agents • RAG • LLM Systems • Backend Engineering • AI Infrastructure**
+`AI Agents` · `RAG` · `LLM Systems` · `Backend Engineering` · `AI Infrastructure`
 
 </div>
