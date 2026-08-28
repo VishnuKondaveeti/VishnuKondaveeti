@@ -1,154 +1,160 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <a href="https://github.com/VishnuKondaveeti">
-    <img src="assets/banner.svg" alt="Vishnu Kondaveeti Header Banner" width="100%" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Circular Profile Avatar Placeholder (Replace assets/profile-placeholder.svg with assets/profile.jpg anytime) -->
-  <a href="https://github.com/VishnuKondaveeti">
-    <img src="assets/profile-placeholder.svg" alt="Vishnu Kondaveeti" width="120" height="120" style="border-radius: 50%;" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Hero Identity -->
-  <h1>Vishnu Kondaveeti</h1>
-  <p><strong>AI / GenAI Software Engineer</strong></p>
-  <p><em>Building agentic AI systems, RAG applications, LLM-powered workflows &amp; production-oriented backend infrastructure.</em></p>
-
-  <p>
-    <a href="https://linkedin.com/in/vishnu-kondaveeti" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/VishnuKondaveeti" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    &nbsp;
-    <a href="mailto:vishnukondaveeti.ai@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+  <!-- Header / Hero Section -->
+  <table border="0" style="border: 0; background: transparent; width: 100%;">
+    <tr style="border: 0; background: transparent;">
+      <td width="130" valign="middle" align="center" style="border: 0; background: transparent; padding-right: 15px;">
+        <img src="assets/profile.jpg" onerror="this.onerror=null; this.src='https://github.com/VishnuKondaveeti.png';" alt="Vishnu Kondaveeti" width="115" height="115" style="border-radius: 50%; border: 3px solid #38bdf8; object-fit: cover;" />
+      </td>
+      <td valign="middle" style="border: 0; background: transparent;">
+        <h1 style="margin: 0; font-size: 30px; font-weight: 800; color: #ffffff;">Vishnu Kondaveeti</h1>
+        <h3 style="margin: 4px 0 8px 0; font-size: 17px; color: #38bdf8; font-weight: 600;">AI / GenAI Software Engineer</h3>
+        <p style="margin: 0 0 12px 0; color: #cbd5e1; font-size: 14px;">Building agentic AI systems, RAG applications, LLM-powered workflows &amp; production-ready backend infrastructure.</p>
+        <p style="margin: 0;">
+          <a href="https://linkedin.com/in/vishnu-kondaveeti" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+          <a href="https://github.com/VishnuKondaveeti" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+          <a href="mailto:vishnukondaveeti.ai@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+          <img src="https://img.shields.io/badge/India-21262d?style=flat&logo=googlemaps&logoColor=white" alt="India" />
+        </p>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 🌐 Socials :
 
-I am a **GenAI-focused Software Engineering student** at **Vellore Institute of Technology (VIT-AP)** pursuing an Integrated M.Tech in Computer Science &amp; Engineering (CGPA: **8.91 / 10.0**).
-
-My engineering focuses on taking AI applications from **raw prototypes toward production-oriented systems**—combining frontier LLMs, autonomous agents, hybrid retrieval (RAG + Knowledge Graphs), and asynchronous backend APIs into robust, observable software architectures.
-
----
-
-## 🚀 Current Focus
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 Agentic AI &amp; Multi-Agent Systems</h4>
-      <p>Building autonomous agents, state machines, and coordinated multi-agent architectures with LangGraph and tool calling.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧠 RAG &amp; Knowledge Systems</h4>
-      <p>Designing hybrid retrieval pipelines combining dense embeddings (ChromaDB/FAISS) with structured Knowledge Graphs (Neo4j).</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚙️ LLM Engineering &amp; Evaluation</h4>
-      <p>Deploying local and hosted models (DeepSeek-R1 via Ollama, Gemini), routing, persistent memory, and Ragas evaluation.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔌 Backend &amp; Microservices</h4>
-      <p>Architecting modular FastAPI backends, asynchronous REST APIs, WebSockets, and external service integrations.</p>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://instagram.com/vishnu_kondaveeti" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+  <a href="https://youtube.com/@vishnukondaveeti" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>&nbsp;
+  <a href="mailto:vishnukondaveeti.ai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
-## 🧠 Technical Skills
+### 👤 About Me :
 
-<table>
-  <tr>
-    <td width="26%" valign="top"><strong>GenAI &amp; LLM Systems</strong></td>
-    <td>
-      <code>RAG</code> • <code>Agentic RAG</code> • <code>AI Agents</code> • <code>Multi-Agent Architectures</code> • <code>Agent Orchestration</code> • <code>Tool Calling</code> • <code>LLM Evaluation (Ragas)</code> • <code>LangChain</code> • <code>LangGraph</code> • <code>Hugging Face Transformers</code> • <code>MCP</code> • <code>Prompt Engineering</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="26%" valign="top"><strong>Backend &amp; APIs</strong></td>
-    <td>
-      <code>FastAPI</code> • <code>REST APIs</code> • <code>Microservices</code> • <code>Async Programming (asyncio)</code> • <code>WebSockets</code> • <code>Webhooks</code> • <code>SQLAlchemy</code> • <code>API Integration</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="26%" valign="top"><strong>Databases &amp; Vector Stores</strong></td>
-    <td>
-      <code>ChromaDB</code> • <code>FAISS</code> • <code>Pinecone</code> • <code>Neo4j (Knowledge Graphs)</code> • <code>SQLite</code> • <code>MySQL</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="26%" valign="top"><strong>Machine Learning</strong></td>
-    <td>
-      <code>Supervised Learning</code> • <code>Unsupervised Learning</code> • <code>Feature Engineering</code> • <code>Model Training</code> • <code>Model Evaluation</code> • <code>Cross Validation</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="26%" valign="top"><strong>Deep Learning &amp; Fine-Tuning</strong></td>
-    <td>
-      <code>PyTorch</code> • <code>Transformers</code> • <code>Transfer Learning</code> • <code>Fine-Tuning</code> • <code>PEFT</code> • <code>LoRA</code> • <code>QLoRA</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="26%" valign="top"><strong>Languages</strong></td>
-    <td>
-      <code>Python</code> • <code>Java</code> • <code>SQL</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="26%" valign="top"><strong>Engineering &amp; Testing</strong></td>
-    <td>
-      <code>API Testing</code> • <code>Integration Testing</code> • <code>Debugging</code> • <code>Troubleshooting</code> • <code>Postman</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="26%" valign="top"><strong>Infrastructure</strong></td>
-    <td>
-      <code>Docker</code> • <code>Git</code> • <code>Linux / Shell</code>
-    </td>
-  </tr>
-</table>
+GenAI-focused Software Engineering student building intelligent systems that combine LLMs, agents, retrieval, backend engineering and real-world APIs. I enjoy turning complex ideas into scalable, modular and production-oriented AI applications.
 
 ---
 
-## 💼 Experience
+### 🎯 Current Focus :
 
-<table>
-  <tr>
-    <td>
-      <h3>🔹 AI &amp; Cloud Virtual Intern — IBM SkillsBuild</h3>
-      <p><strong>September 2025 – October 2025</strong></p>
-      <ul>
-        <li>Developed end-to-end machine-learning workflows using Python for <strong>data preprocessing, feature engineering, model training, and evaluation</strong>.</li>
-        <li>Applied supervised and unsupervised learning techniques across classification and regression tasks.</li>
-        <li>Evaluated models using <strong>k-fold cross-validation, Precision, Recall, and F1-Score</strong>.</li>
-        <li>Explored cloud-based AI workflows and practical machine-learning development.</li>
+<p>
+  <img src="https://img.shields.io/badge/%F0%9F%A4%96_Agentic_AI-1e293b?style=for-the-badge&logoColor=white&color=0f172a" alt="Agentic AI" />&nbsp;
+  <img src="https://img.shields.io/badge/%F0%9F%A7%A0_RAG_%26_LLM_Apps-1e293b?style=for-the-badge&logoColor=white&color=0f172a" alt="RAG & LLM Apps" />&nbsp;
+  <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F_AI_Orchestration-1e293b?style=for-the-badge&logoColor=white&color=0f172a" alt="AI Orchestration" />&nbsp;
+  <img src="https://img.shields.io/badge/%F0%9F%94%8C_Backend_%26_APIs-1e293b?style=for-the-badge&logoColor=white&color=0f172a" alt="Backend & APIs" />&nbsp;
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80_AI_Deployment-1e293b?style=for-the-badge&logoColor=white&color=0f172a" alt="AI Deployment" />
+</p>
+
+---
+
+### 💻 Tech Stack:
+
+<p>
+  <!-- Row 1: Languages & Core Backend -->
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;
+  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />&nbsp;
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />&nbsp;
+  <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />&nbsp;
+  <img src="https://img.shields.io/badge/REST_API-00897B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />&nbsp;
+  <img src="https://img.shields.io/badge/ASYNCIO-5C2D91?style=for-the-badge&logo=python&logoColor=white" alt="Asyncio" />&nbsp;
+  <img src="https://img.shields.io/badge/WEBSOCKETS-8E24AA?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
+</p>
+
+<p>
+  <!-- Row 2: GenAI & Orchestration -->
+  <img src="https://img.shields.io/badge/WEBHOOKS-E65100?style=for-the-badge&logoColor=white" alt="Webhooks" />&nbsp;
+  <img src="https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />&nbsp;
+  <img src="https://img.shields.io/badge/LANGGRAPH-2E7D32?style=for-the-badge&logoColor=white" alt="LangGraph" />&nbsp;
+  <img src="https://img.shields.io/badge/AGENTIC_AI-1565C0?style=for-the-badge&logoColor=white" alt="Agentic AI" />&nbsp;
+  <img src="https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge&logoColor=white" alt="RAG" />&nbsp;
+  <img src="https://img.shields.io/badge/TOOL_CALLING-2E7D32?style=for-the-badge&logoColor=white" alt="Tool Calling" />
+</p>
+
+<p>
+  <!-- Row 3: Evaluation & Platforms -->
+  <img src="https://img.shields.io/badge/LLM_EVALUATION-C62828?style=for-the-badge&logoColor=white" alt="LLM Evaluation" />&nbsp;
+  <img src="https://img.shields.io/badge/RAGAS-D84315?style=for-the-badge&logoColor=white" alt="Ragas" />&nbsp;
+  <img src="https://img.shields.io/badge/HUGGING_FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />&nbsp;
+  <img src="https://img.shields.io/badge/MCP-5C2D91?style=for-the-badge&logoColor=white" alt="MCP" />&nbsp;
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;
+  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+<p>
+  <!-- Row 4: Databases & Vectors -->
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;
+  <img src="https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />&nbsp;
+  <img src="https://img.shields.io/badge/CHROMADB-2E7D32?style=for-the-badge&logoColor=white" alt="ChromaDB" />&nbsp;
+  <img src="https://img.shields.io/badge/FAISS-5C2D91?style=for-the-badge&logoColor=white" alt="FAISS" />&nbsp;
+  <img src="https://img.shields.io/badge/PINECONE-F57C00?style=for-the-badge&logoColor=white" alt="Pinecone" />&nbsp;
+  <img src="https://img.shields.io/badge/NEO4J-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
+</p>
+
+<p>
+  <!-- Row 5: Deep Learning & Fine-Tuning -->
+  <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />&nbsp;
+  <img src="https://img.shields.io/badge/TRANSFORMERS-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />&nbsp;
+  <img src="https://img.shields.io/badge/PEFT-00897B?style=for-the-badge&logoColor=white" alt="PEFT" />&nbsp;
+  <img src="https://img.shields.io/badge/LORA-6A1B9A?style=for-the-badge&logoColor=white" alt="LoRA" />&nbsp;
+  <img src="https://img.shields.io/badge/QLORA-6A1B9A?style=for-the-badge&logoColor=white" alt="QLoRA" />&nbsp;
+  <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+<p>
+  <!-- Row 6: Testing & Quality -->
+  <img src="https://img.shields.io/badge/API_TESTING-2E7D32?style=for-the-badge&logoColor=white" alt="API Testing" />&nbsp;
+  <img src="https://img.shields.io/badge/INTEGRATION_TESTING-1565C0?style=for-the-badge&logoColor=white" alt="Integration Testing" />&nbsp;
+  <img src="https://img.shields.io/badge/DEBUGGING-D84315?style=for-the-badge&logoColor=white" alt="Debugging" />&nbsp;
+  <img src="https://img.shields.io/badge/TROUBLESHOOTING-E65100?style=for-the-badge&logoColor=white" alt="Troubleshooting" />
+</p>
+
+---
+
+### 💼 Experience :
+
+<table width="100%" border="0" style="border: 0;">
+  <tr style="border: 0;">
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
+      <table border="0" style="border: 0; width: 100%;">
+        <tr style="border: 0;">
+          <td width="50" valign="middle" style="border: 0;">
+            <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" height="28" alt="IBM" />
+          </td>
+          <td style="border: 0; padding-left: 10px;">
+            <strong style="font-size: 15px; color: #f0f6fc;">AI &amp; Cloud Virtual Intern</strong><br/>
+            <span style="color: #38bdf8; font-size: 13px;">IBM SkillsBuild</span><br/>
+            <small style="color: #8b949e;">🗓️ Sep 2025 – Oct 2025</small>
+          </td>
+        </tr>
+      </table>
+      <ul style="color: #c9d1d9; font-size: 13px; margin-top: 10px; padding-left: 18px;">
+        <li>Developed ML workflows using Python for preprocessing, feature engineering, model training and evaluation.</li>
+        <li>Applied supervised &amp; unsupervised learning across classification and regression tasks.</li>
+        <li>Used cross-validation, Precision, Recall and F1-Score for model evaluation.</li>
+        <li>Explored cloud-based AI workflows and practical ML development.</li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>🔹 AI &amp; Data Analytics Virtual Intern — Shell</h3>
-      <p><strong>October 2025 – November 2025</strong></p>
-      <ul>
-        <li>Performed <strong>exploratory data analysis (EDA)</strong> using Python, Pandas, and NumPy.</li>
-        <li>Applied data cleaning, transformation, and validation techniques to structured datasets.</li>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
+      <table border="0" style="border: 0; width: 100%;">
+        <tr style="border: 0;">
+          <td width="50" valign="middle" style="border: 0;">
+            <img src="https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=shell&logoColor=red" height="28" alt="Shell" />
+          </td>
+          <td style="border: 0; padding-left: 10px;">
+            <strong style="font-size: 15px; color: #f0f6fc;">AI &amp; Data Analytics Virtual Intern</strong><br/>
+            <span style="color: #38bdf8; font-size: 13px;">Shell</span><br/>
+            <small style="color: #8b949e;">🗓️ Oct 2025 – Nov 2025</small>
+          </td>
+        </tr>
+      </table>
+      <ul style="color: #c9d1d9; font-size: 13px; margin-top: 10px; padding-left: 18px;">
+        <li>Performed EDA using Python, Pandas and NumPy.</li>
+        <li>Applied data cleaning, transformation and validation on structured datasets.</li>
         <li>Used statistical analysis and visualization to identify patterns and evaluate model outputs.</li>
         <li>Supported data-driven decision making through analytical insights.</li>
       </ul>
@@ -158,153 +164,104 @@ My engineering focuses on taking AI applications from **raw prototypes toward pr
 
 ---
 
-## 📚 Education
+### 🎓 Education :
 
-<table>
-  <tr>
-    <td>
-      <h3>🎓 Vellore Institute of Technology (VIT-AP), India</h3>
-      <p><strong>Integrated M.Tech in Computer Science &amp; Engineering</strong> &nbsp;|&nbsp; <em>2022 – 2027</em></p>
-      <p><strong>Academic Standing:</strong> <code>CGPA: 8.91 / 10.0</code></p>
+<table width="100%" border="0" style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117; padding: 16px;">
+  <tr style="border: 0;">
+    <td width="60" valign="middle" style="border: 0;">
+      <img src="https://img.shields.io/badge/VIT-AP-003B57?style=for-the-badge&logo=academicons&logoColor=white" height="32" alt="VIT-AP" />
+    </td>
+    <td valign="middle" style="border: 0; padding-left: 10px;">
+      <strong style="font-size: 16px; color: #f0f6fc;">Vellore Institute of Technology (VIT-AP), India</strong><br/>
+      <span style="color: #38bdf8; font-size: 14px;">Integrated M.Tech in Computer Science &amp; Engineering</span><br/>
+      <span style="color: #10b981; font-weight: 700; font-size: 13px;">CGPA: 8.91 / 10.0</span>
+    </td>
+    <td align="right" valign="top" style="border: 0;">
+      <span style="color: #8b949e; font-size: 13px;">🗓️ <strong>2022 – 2027</strong></span>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🔥 Featured AI Projects
+### 📊 GitHub Stats :
 
-### 1. [AgentOS — Autonomous AI Personal Assistant](https://github.com/VishnuKondaveeti/agentOS)
-> **Multi-Channel Event-Driven Agentic Operating System**
->
-> <code>4 Automated Pipelines</code> • <code>10 REST APIs</code> • <code>Persistent Entity Memory</code>
->
-> - **Event-Driven Orchestration:** Engineered an event-driven orchestration system spanning **4 automated pipelines** across Email, WhatsApp, and Voice.
-> - **DeepSeek-R1 Reasoning:** Powered by **DeepSeek-R1 (via Ollama)** for intent classification, summarization, response generation, and automated notifications.
-> - **Backend Microservices:** Modular **FastAPI** backend exposing **10 REST APIs** integrated with Gmail API, WhatsApp Cloud API, and Vapi.ai.
-> - **Persistent Memory:** Implemented persistent, entity-aware LLM memory using **SQLAlchemy and SQLite** for context-aware responses.
-> - **Stack:** `DeepSeek-R1` • `Ollama` • `FastAPI` • `n8n` • `SQLite` • `Docker` • `Gmail API` • `WhatsApp API` • `Vapi.ai`
-
-```text
-[Channels: Email / WhatsApp / Voice]
-                ↓ (Webhooks)
-        [Event Processing]
-                ↓
-        [AI Orchestration] ←→ [Persistent Memory (SQLite)]
-                ↓
-        [DeepSeek-R1 (Ollama)]
-                ↓
-        [Action & Channel Dispatch]
-```
-
-<p align="right"><a href="https://github.com/VishnuKondaveeti/agentOS"><strong>View agentOS Repository →</strong></a></p>
-
----
-
-### 2. [Agentic AI Multi-Agent Research Platform](https://github.com/VishnuKondaveeti/agentic-research-matrix)
-> **Autonomous Multi-Agent Academic Discovery &amp; Knowledge Graph Engine**
->
-> <code>16 LangGraph Agents</code> • <code>47 Papers Indexed</code> • <code>1,449+ Embeddings</code> • <code>18 REST APIs</code>
->
-> - **Multi-Agent Coordination:** Dynamic **16-agent LangGraph architecture** orchestrating specialized search, review, reasoning, and synthesis agents.
-> - **Hybrid RAG + Knowledge Graph:** Dual-layer retrieval combining **ChromaDB dense vector embeddings** with **Neo4j graph relationships**.
-> - **Academic Corpus Ingestion:** Indexed **47 research papers** and **1,449+ embeddings** across 4 research APIs (arXiv, Semantic Scholar, OpenAlex, CORE).
-> - **High-Throughput Backend:** FastAPI service exposing **18 REST APIs** for automated ingestion and agent workflow execution.
-> - **Stack:** `LangGraph` • `Gemini` • `ChromaDB` • `Neo4j` • `FastAPI` • `Agentic RAG`
-
-```text
-[Research APIs: arXiv / OpenAlex / Semantic Scholar / CORE]
-                            ↓
-                   [Semantic Ingestion]
-                            ↓
-            [ChromaDB (Vectors) + Neo4j (Graph)]
-                            ↓
-            [16-Agent LangGraph Reasoning System]
-                            ↓
-                    [Research Synthesis]
-                            ↓
-                       [Final Report]
-```
-
-<p align="right"><a href="https://github.com/VishnuKondaveeti/agentic-research-matrix"><strong>View Research Platform Repository →</strong></a></p>
+<table width="100%" border="0" style="border: 0;">
+  <tr style="border: 0;">
+    <td width="25%" align="center" style="border: 1px solid #30363d; border-bottom: 3px solid #a855f7; border-radius: 8px; padding: 14px; background-color: #0d1117;">
+      <span style="color: #a855f7; font-size: 18px;">⭐</span><br/>
+      <small style="color: #8b949e; font-size: 11px; text-transform: uppercase;">Total Stars Earned</small><br/>
+      <strong style="font-size: 22px; color: #ffffff;">160+</strong>
+    </td>
+    <td width="25%" align="center" style="border: 1px solid #30363d; border-bottom: 3px solid #10b981; border-radius: 8px; padding: 14px; background-color: #0d1117;">
+      <span style="color: #10b981; font-size: 18px;">🌿</span><br/>
+      <small style="color: #8b949e; font-size: 11px; text-transform: uppercase;">Total Commits</small><br/>
+      <strong style="font-size: 22px; color: #ffffff;">850+</strong>
+    </td>
+    <td width="25%" align="center" style="border: 1px solid #30363d; border-bottom: 3px solid #eab308; border-radius: 8px; padding: 14px; background-color: #0d1117;">
+      <span style="color: #eab308; font-size: 18px;">📁</span><br/>
+      <small style="color: #8b949e; font-size: 11px; text-transform: uppercase;">Total Repositories</small><br/>
+      <strong style="font-size: 22px; color: #ffffff;">25+</strong>
+    </td>
+    <td width="25%" align="center" style="border: 1px solid #30363d; border-bottom: 3px solid #06b6d4; border-radius: 8px; padding: 14px; background-color: #0d1117;">
+      <span style="color: #06b6d4; font-size: 18px;">📈</span><br/>
+      <small style="color: #8b949e; font-size: 11px; text-transform: uppercase;">Contributions (2025)</small><br/>
+      <strong style="font-size: 22px; color: #ffffff;">1200+</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 3. [Agentic RAG System](https://github.com/VishnuKondaveeti/Agentic-RAG-Pipeline)
-> **Context-Aware Document Intelligence with Dynamic Intent Routing**
->
-> <code>2 Execution Paths</code> • <code>Top-3 Similarity Retrieval</code> • <code>DeepSeek-R1 7B Local</code>
->
-> - **Adaptive Query Routing:** Built an Agentic RAG system using **LangChain LCEL** with an intent router dynamically selecting between **Retrieval-Augmented Generation** and **Direct Generation**.
-> - **Semantic Indexing:** Ingestion pipeline with **all-MiniLM-L6-v2** embeddings, 1,000-character chunks, 200-character overlap, and top-3 similarity retrieval.
-> - **Explainable Attribution:** Integrated source attribution and routing-decision visualization to eliminate hallucinations.
-> - **Local LLM Inference:** Ran **DeepSeek-R1 7B locally via Ollama** for private, low-latency execution.
-> - **Stack:** `LangChain LCEL` • `DeepSeek-R1` • `ChromaDB` • `Hugging Face` • `FastAPI` • `Ollama`
+### 🚀 Featured Projects :
 
-```text
-                  [User Query]
-                       ↓
-               [Intent Router]
-               ↙             ↘
-     [RAG Pipeline]      [Direct Generation]
-           ↓                      ↓
-      [ChromaDB]                  |
-           ↓                      |
-     [Context Retrieval]          |
-           └──────────┬───────────┘
-                      ↓
-              [DeepSeek-R1 7B]
-                      ↓
-      [Explainable Response + Citations]
-```
-
-<p align="right"><a href="https://github.com/VishnuKondaveeti/Agentic-RAG-Pipeline"><strong>View Agentic RAG Repository →</strong></a></p>
-
----
-
-## 🏗️ Engineering Philosophy
-
-> *"Don't just wrap an API around an LLM. Build the system around it."*
-
-```text
-LLM
- ↓
-Prompting & Structured I/O
- ↓
-Agents & Orchestration
- ↓
-Tools & APIs
- ↓
-Retrieval & Memory
- ↓
-Backend Services
- ↓
-Evaluation
- ↓
-Deployment
-```
+<table width="100%" border="0" style="border: 0;">
+  <tr style="border: 0;">
+    <td width="33%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 14px; background-color: #0d1117;">
+      <a href="https://github.com/VishnuKondaveeti/agentOS" style="text-decoration: none; color: #38bdf8; font-weight: 700; font-size: 14px;">agentOS</a><br/>
+      <p style="color: #c9d1d9; font-size: 12px; margin: 6px 0 10px 0;">Autonomous AI Personal Assistant with 4 pipelines &amp; multi-channel communication.</p>
+      <small style="color: #38bdf8;">● Python</small>
+    </td>
+    <td width="33%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 14px; background-color: #0d1117;">
+      <a href="https://github.com/VishnuKondaveeti/agentic-research-matrix" style="text-decoration: none; color: #38bdf8; font-weight: 700; font-size: 14px;">agentic-research-matrix</a><br/>
+      <p style="color: #c9d1d9; font-size: 12px; margin: 6px 0 10px 0;">16-agent research platform with hybrid RAG + Knowledge Graph (47 papers, 1,449+ embeddings).</p>
+      <small style="color: #38bdf8;">● Python</small>
+    </td>
+    <td width="33%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 14px; background-color: #0d1117;">
+      <a href="https://github.com/VishnuKondaveeti/Agentic-RAG-Pipeline" style="text-decoration: none; color: #38bdf8; font-weight: 700; font-size: 14px;">Agentic-RAG-Pipeline</a><br/>
+      <p style="color: #c9d1d9; font-size: 12px; margin: 6px 0 10px 0;">Agentic RAG system with dynamic routing, citations &amp; local DeepSeek-R1 (Ollama).</p>
+      <small style="color: #38bdf8;">● Python</small>
+    </td>
+  </tr>
+  <tr style="border: 0;">
+    <td width="33%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 14px; background-color: #0d1117; margin-top: 10px;">
+      <a href="https://github.com/VishnuKondaveeti/semantic-search-system" style="text-decoration: none; color: #38bdf8; font-weight: 700; font-size: 14px;">semantic-search-system</a><br/>
+      <p style="color: #c9d1d9; font-size: 12px; margin: 6px 0 10px 0;">Semantic search using embeddings, ChromaDB &amp; FastAPI.</p>
+      <small style="color: #38bdf8;">● Python</small>
+    </td>
+    <td width="33%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 14px; background-color: #0d1117; margin-top: 10px;">
+      <a href="https://github.com/VishnuKondaveeti/Autonomous-AI-Companies" style="text-decoration: none; color: #38bdf8; font-weight: 700; font-size: 14px;">Autonomous-AI-Companies</a><br/>
+      <p style="color: #c9d1d9; font-size: 12px; margin: 6px 0 10px 0;">Curated list of autonomous AI companies with research &amp; insights.</p>
+      <small style="color: #38bdf8;">● Python</small>
+    </td>
+    <td width="33%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 14px; background-color: #0d1117; margin-top: 10px;">
+      <a href="https://github.com/VishnuKondaveeti/RealTime-AI-Air-Sketch-AICTC-Internship" style="text-decoration: none; color: #38bdf8; font-weight: 700; font-size: 14px;">RealTime-AI-Air-Sketch</a><br/>
+      <p style="color: #c9d1d9; font-size: 12px; margin: 6px 0 10px 0;">Real-time AI air sketch recognition &amp; processing system.</p>
+      <small style="color: #38bdf8;">● Python</small>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishnuKondaveeti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="150" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuKondaveeti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="150" alt="Top Languages" />
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-  **Interested in collaborating on Agentic AI, RAG architectures, or backend AI infrastructure?**
-  
-  [LinkedIn](https://linkedin.com/in/vishnu-kondaveeti) • [GitHub](https://github.com/VishnuKondaveeti) • [Email](mailto:vishnukondaveeti.ai@gmail.com)
-
-  <br/><br/>
-  <sub>⚡ Building AI systems that move beyond the chatbot.</sub>
-
-</div>
+<!-- Quote Footer Card -->
+<table width="100%" border="0" style="border: 1px solid #1e3a8a; border-left: 4px solid #38bdf8; border-radius: 8px; background: linear-gradient(90deg, #0b1528 0%, #080d1a 100%); padding: 18px;">
+  <tr style="border: 0;">
+    <td align="center" style="border: 0;">
+      <p style="margin: 0; font-size: 16px; color: #f0f6fc; font-weight: 500; font-style: italic;">
+        &ldquo;Don't just wrap an API around an LLM. Build the system around it.&rdquo;
+        <span style="color: #38bdf8; font-style: normal; font-size: 14px; margin-left: 10px;">— Vishnu</span>
+      </p>
+    </td>
+  </tr>
+</table>
